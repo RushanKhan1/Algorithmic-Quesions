@@ -23,6 +23,12 @@ Input: hannah
 Output: String is palindrome
 ```
 
+2. Write a program to input an array of integers and output the maximum element of the array.
+
+```
+Input: 1 2 3 4 5
+Output: 5
+```
 
 
 
