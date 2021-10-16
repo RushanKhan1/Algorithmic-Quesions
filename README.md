@@ -29,10 +29,44 @@ Output: String is palindrome
 Input: 1 2 3 4 5
 Output: 5
 ```
+3. Write a program to print the following pattern:
+
+```
+Output:
+*
+**
+***
+****
+*****
+```
+
+4. Write a program to print the following pattern:
+
+```
+Output:
+     *
+    **
+   ***
+  ****
+ *****
+```
 
 
 
 ## Intermediate 
 
+1. Find the Kth Maximum number in a given array in linear time complexity.
+```
+Input: arr = [1, 2, 4, 3, 5], k = 2
+Output: 4
 
+Input: arr = [1, 2, 2, 4, 4, 6, 5, 5], k = 3
+Output: 5
+```
 
+2. Move all negative numbers to beginning and positive to end with constant 
+extra space and linear time complexity.
+```
+Input: -12, 11, -13, -5, 6, -7, 5, -3, -6
+Output: -12 -13 -5 -7 -3 -6 11 6 5
+```
