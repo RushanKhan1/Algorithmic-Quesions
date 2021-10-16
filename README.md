@@ -29,10 +29,39 @@ Output: String is palindrome
 Input: 1 2 3 4 5
 Output: 5
 ```
+3. Write a program to print the following pattern:
+
+```
+Output:
+*
+**
+***
+****
+*****
+```
+
+4. Write a program to print the following pattern:
+
+```
+Output:
+     *
+    **
+   ***
+  ****
+ *****
+```
 
 
 
 ## Intermediate 
 
+1. Find the Kth Maximum number in a given array.
+```
+Input: arr = [1, 2, 4, 3, 5], k = 2
+Output: 4
 
+Input: arr = [1, 2, 2, 4, 4, 6, 5, 5], k = 3
+Output: 5
+```
 
+2. 
