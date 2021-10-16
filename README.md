@@ -63,3 +63,10 @@ Output: 4
 Input: arr = [1, 2, 2, 4, 4, 6, 5, 5], k = 3
 Output: 5
 ```
+
+2. Move all negative numbers to beginning and positive to end with constant 
+extra space and linear time complexity.
+```
+Input: -12, 11, -13, -5, 6, -7, 5, -3, -6
+Output: -12 -13 -5 -7 -3 -6 11 6 5
+```
