@@ -55,7 +55,7 @@ Output:
 
 ## Intermediate 
 
-1. Find the Kth Maximum number in a given array.
+1. Find the Kth Maximum number in a given array in linear time complexity.
 ```
 Input: arr = [1, 2, 4, 3, 5], k = 2
 Output: 4
