@@ -63,5 +63,3 @@ Output: 4
 Input: arr = [1, 2, 2, 4, 4, 6, 5, 5], k = 3
 Output: 5
 ```
-
-2. 
