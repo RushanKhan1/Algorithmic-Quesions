@@ -70,3 +70,19 @@ extra space and linear time complexity.
 Input: -12, 11, -13, -5, 6, -7, 5, -3, -6
 Output: -12 -13 -5 -7 -3 -6 11 6 5
 ```
+
+3. Given an array of integers ``nums`` and an integer ``target``, return indices of the two numbers such that they add up to ``target``.
+
+```
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Output: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+4. Remove duplicates from a sorted array of positive numbers and return the remaining array, with the unique elements put towards the starting of the array, it doesn't matter what you put after the unique elements in the array.
+
+```
+Input: nums = [1,1,1,2,3,4]
+Output: nums = [1,2,3,4,-1,-1]
+```
+
